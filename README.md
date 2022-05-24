@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![image](https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif)]
+![image](https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif)
 
 <!--
 **amsnvc/amsnvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
