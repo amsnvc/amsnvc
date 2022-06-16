@@ -1,6 +1,6 @@
-### Hi there 👋
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div id="header" align="center">
+  ### Hi there 👋
   <img src="https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif" />
 </div>
 <!--
