@@ -19,7 +19,7 @@
   
 ### Socials
 <a href="https://twitter.com/ameliniya_"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="100" height="100"/></a>
-<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="100" height="100"/>
+<a href="https://discord.gg/str5s8P"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="100" height="100"/></a>
   
 
 <!--
