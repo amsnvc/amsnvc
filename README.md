@@ -13,9 +13,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="100" height="100"/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsnvc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=asmsnvc&style=flat-square&color=blue" alt=""/>
-  </div>
 </div>
 
 ---
