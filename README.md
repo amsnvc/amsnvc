@@ -6,7 +6,9 @@
 </div>
 
 
-            <i class="devicon-twitter-original colored"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+          
           
 <!--
 **amsnvc/amsnvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
