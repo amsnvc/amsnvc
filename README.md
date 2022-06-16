@@ -14,7 +14,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100" height="100/>"
 </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsnvc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsnvc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
   
 ---
   
