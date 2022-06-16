@@ -30,7 +30,7 @@ Hey! My name is Ame
 ---
 
   
-### Socials
+### :link:Socials
 <div align="center">
 <a href="https://twitter.com/ameliniya_"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="100" height="100"/></a>
 &nbsp;
