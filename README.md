@@ -13,7 +13,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="100" height="100/>"
 </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsnvc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsnvc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **amsnvc/amsnvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
