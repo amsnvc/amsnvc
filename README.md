@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<div style="align= center;">
+<div align="center;">
 <img src="https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif"/>
-  </div>
-![image](https://media.giphy.com/media/AbDb2PniluFwY/giphy.gif)
+</div>
 
 <!--
 **amsnvc/amsnvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
